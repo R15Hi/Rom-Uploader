@@ -1,4 +1,4 @@
-# Rom Uploader
+# Rom Uploader :
 An Automated Script to upload rom builds to download server like SourceForge
 
 ## Instructions
